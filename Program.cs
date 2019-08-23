@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IsolatedStorageFile
+namespace IsolatedStor
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace IsolatedStorageFile
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmBase());
         }
     }
 }
