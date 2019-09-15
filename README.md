@@ -1,0 +1,2 @@
+# IsolatedStorageFile
+IsolatedStorageFile Class 
